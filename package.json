@@ -1,0 +1,10 @@
+{
+  "name": "vue-playground",
+  "version": "0.1.0-alpha",
+  "description": "Just a sandbox project to learn Vue.js",
+  "main": "index.js",
+  "repository": "https://github.com/jaywha/vue-playground",
+  "author": "Jay Whaley",
+  "license": "MIT",
+  "private": false
+}
